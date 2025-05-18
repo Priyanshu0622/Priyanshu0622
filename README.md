@@ -146,7 +146,7 @@
 </div>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------Animesh's Tech Stack Table   -------------------------------------------------------------------->
+<!---------------------------------------------------------priyanshu's Tech Stack Table   -------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <table>
@@ -224,7 +224,7 @@
 <h3>💻 GitHub Profile Stats</h3>
 <p align = "center">
 <a href = "https://github.com/ansiace">
-<img src = "https://github-readme-stats.vercel.app/api?username=ansiace&show_icons=true&count_private=true&locale=en&theme=vision-friendly-dark&layout=compact" alt = "Animesh's Github Stats" height = 200px/></a>
+<img src = "https://github-readme-stats.vercel.app/api?username=ansiace&show_icons=true&count_private=true&locale=en&theme=vision-friendly-dark&layout=compact" alt = "priyanshu's Github Stats" height = 200px/></a>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ansiace&langs_count=15&layout=compact&locale=en&theme=vision-friendly-dark" alt = "Languages Used" height = 200px/>
 <br><br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -235,9 +235,9 @@
 <!----- GitHub Activity graph----------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[![Animesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=custom&bg_color=0d1117&color=FFAA00&line=FF8800&point=FF7700&area=true&hide_border=true)](https://github.com/ansiace)
+[!priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=custom&bg_color=0d1117&color=FFAA00&line=FF8800&point=FF7700&area=true&hide_border=true)](https://github.com/ansiace)
 
-![Animesh's profile activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansiace&theme=darcula)
+![priyanshu's profile activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansiace&theme=darcula)
 
 
 
