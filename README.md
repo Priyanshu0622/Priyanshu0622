@@ -1,12 +1,264 @@
-## Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Textutils
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Open source
-- 🤔 I’m looking for help with Dvelopers
-- 💬 Ask me about Javascript
-- 📫 How to reach me: 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love to play Basketball
+<div align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+</div>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------ Profile Icon ---------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
+  <div>
+    <div align="center">
+        <a href="https://github.com/Priyanshu0622"><img src="animesh.png" height="400" /></a>
+    </div>
+    
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Profile Bar ----------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://Priyanshu0622.vercel.app/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Priyanshu0622&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
+
+<p align = "center"><img src = "https://komarev.com/ghpvc/?username=Priyanshu0622&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/></p>
+
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-----About section ----------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+- 🏢 I am a Full-Stack Developer at [`Learn & Build`](https://learnandbuild.in/).
+- 🏫 3<sup>rd</sup> year CSE Student at [`Rajasthan Technical University`](https://www.rtu.ac.in/index/).
+- 🧑‍💻 Love Coding in python and Javascript mostly.
+- 🤓 Always try to `learn new things`.
+
+
+<table align = "center">
+<tr>
+<td align = "center"> ✨ Full-Stack Developer Student at <a href = "https://learnandbuild.in/"><br>Learn & Build</a> <br>(August'23 - July'24) </td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Badge's section ----------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<details>
+<summary> 𝓖𝓢𝓢𝓞𝓒'24 𝓓𝔂𝓷𝓪𝓶𝓲𝓬 𝓑𝓪𝓭𝓰𝓮𝓼 🪶</summary>
+
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<!-- GSSoC Postman Badge-->
+<a href="https://api.badgr.io/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=animeshrai2412%40gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="96" alt="Postman API Fundamentals Student Expert">
+</a>
+
+<!-- GSSoC HACK WEB3CONF INDIA Badge -->
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+<img src="https://github.com/user-attachments/assets/8efa4bff-9b43-4c70-88d8-e2d43dd7aecc" width="96" />
+</a>
+
+
+<!--American Heroes Badge-->
+<a href="https://api.badgr.io/public/assertions/fatlU9UmR466PnbtsCG5eA?identity__email=priyanshukumar30495@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="96" alt="American Heroes Badge">
+</a>
+
+<!--GSSoC 1st Explorer Badge on 60 points-->
+
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+<img src="https://github.com/user-attachments/assets/c50c143c-678c-49cd-8d66-7e5642b94f02" width="96"/>
+</a>
+
+<!--GSSoC 2nd Adventurer Badge on 140 points-->
+
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
+</a>
+
+<!--GSSoC 3rd Trailblazer Badge on 200 points-->
+
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+<img src="https://github.com/user-attachments/assets/d01deebf-5e97-41cd-a18b-be55e156eb15" width="96"/>
+</a>
+
+<!--GSSoC 4th Summit Seeker Badge	on 300 points-->
+
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+<img src="https://github.com/user-attachments/assets/c2ed0f18-ae19-4b8e-b354-f92ded3f4493" width="96"/>
+</a>
+
+<!--GSSoC 5th Champion Badge on 500 points-->
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
+</a>
+
+<!--GSSoC 6th Innovator Badge on 1200 points-->
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://github.com/user-attachments/assets/3c9f86b5-9d3c-4e60-8a61-2bbe93fe88e2" width="96" />
+</a>
+
+<!--GSSoC Git explorer Badge-->
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://github.com/user-attachments/assets/53c905f6-5cb7-4333-83b0-eab4f0c2d276" width="105" alt="Image">
+</a>
+
+</div>
+
+</details>
+
+
+<br>
+<br>
+
+<details>
+<summary>𝓗𝓸𝓵𝓸𝓹𝓲𝓷 𝓑𝓪𝓭𝓰𝓮𝓼 🏅</summary>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-----------------------------------------------------------------Holopin Badges ------------------------------------------------------------------>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+[![An image of @ansiace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ansiace)](https://holopin.io/@ansiace)
+
+
+</div>
+
+</details>
+
+
+<br>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------- ------------------------------------------------ Skill set----------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center">
+    <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
+    <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
+</div>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------Animesh's Tech Stack Table   -------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+  
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    
+ <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
+      <br>HTML
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+      <br>CSS
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="BootStrap" />
+      <br>BootStrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+  </tr>
+ <tr>
+      </td> 
+  
+ </tr>
+</table>
+
+<br>
+
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----Streak Stats   ----------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
+
+<h3>🔥 Streak Stats</h3>
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://streak-stats.demolab.com?user=ansiace&theme=vision-friendly-dark&border_radius=10"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- GitHub Profile Stats  ----------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<h3>💻 GitHub Profile Stats</h3>
+<p align = "center">
+<a href = "https://github.com/ansiace">
+<img src = "https://github-readme-stats.vercel.app/api?username=ansiace&show_icons=true&count_private=true&locale=en&theme=vision-friendly-dark&layout=compact" alt = "Animesh's Github Stats" height = 200px/></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ansiace&langs_count=15&layout=compact&locale=en&theme=vision-friendly-dark" alt = "Languages Used" height = 200px/>
+<br><br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+
+<!----- GitHub Activity graph----------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+[![Animesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=custom&bg_color=0d1117&color=FFAA00&line=FF8800&point=FF7700&area=true&hide_border=true)](https://github.com/ansiace)
+
+![Animesh's profile activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansiace&theme=darcula)
+
+
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/ansiace?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=yellow&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/ansiace?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=yellow">
+      <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=yellow]" >
+    </picture>
+</div>
+<div align="center">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+### :heavy_check_mark:✨ Explore more about me! , Please visit &nbsp; <a href = "https://ansiace.vercel.app"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+
+
+
+### 💖 Star your favorite repositories and spread the love! 🌟
+</div>
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------Readme file Ends---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
