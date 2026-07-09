@@ -1,4 +1,10 @@
+# 💫 Hi 👋, I'm Priyanshu kumar 
+**"Turning raw data into intelligent, production-ready systems"**
 
+Email Me 👉 ✉️ **priyanshukumar30495@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+- 🌱 **I’m currently learning:** MLOps (MLflow, Kubeflow, or Airflow)
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 💬 **Ask me about:**  Machine learning, MLOps, or how to get started in AI engineering
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshukumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshukumar30495@gmail.com) 
 
